@@ -12,11 +12,11 @@ class COC:
 
         COC.jlm_troops += 1
 
-    #method without return
+    #method without return and argument
     def sayHai(self):
         print('myname is ' + self.name)
 
-    #method with argument
+    #method with argument, without return
     def hitpointUp(self, up):
         self.hitpoint += up
 
