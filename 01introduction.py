@@ -15,4 +15,10 @@ troops_2.hitpoints = 20
 troops_2.level = 1
 
 
+print(troops_1.name)
+print(troops_1.hitpoints)
+print(troops_1.level)
+
 print(troops_2.name)
+print(troops_2.hitpoints)
+print(troops_2.level)
