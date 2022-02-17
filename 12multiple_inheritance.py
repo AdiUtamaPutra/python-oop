@@ -1,6 +1,3 @@
-from ast import Pass
-
-
 class A: 
     def method_A(self):
         print("Method A")
